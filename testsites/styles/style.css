@@ -1,6 +1,6 @@
 html {
     font-size: 1px;
-    font-family: 'Grenze Gotisch', cursive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
 }
 h1 {
@@ -14,7 +14,7 @@ p, li {
 }
 a {
     font-size: 12px;
-    color: red;
+    color: rgb(0, 247, 255);
 }
 body {
     width: 500px;
